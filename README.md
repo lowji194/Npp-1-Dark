@@ -1,3 +1,5 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
+---
 # Hướng dẫn cài đặt theme cho Notepad++
 
 Đây là hướng dẫn sử dụng lệnh PowerShell để cài đặt theme cho Notepad++ từ script trực tuyến.
