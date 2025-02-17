@@ -1,3 +1,5 @@
+[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+---
 # How to install themes for Notepad++
 
 This is a guide to using PowerShell commands to install themes for Notepad++ from online scripts.
