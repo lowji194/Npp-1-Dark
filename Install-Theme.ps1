@@ -1,6 +1,6 @@
 # Đường dẫn tải các file theme và syntax highlight
-$themeUrl = "https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Npp-1-Dark.xml"
-$sassUrl = "https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Npp-1-Dark-Sass.xml"
+$themeUrl = "https://raw.githubusercontent.com/lowji194/Npp-1-Dark/refs/heads/main/Npp-1-Dark.xml"
+$sassUrl = "https://raw.githubusercontent.com/lowji194/Npp-1-Dark/refs/heads/main/Npp-1-Dark-Sass.xml"
 
 # Đường dẫn lưu file theme và Sass
 $themePath = "$env:APPDATA\Notepad++\themes\Npp-1-Dark.xml"
