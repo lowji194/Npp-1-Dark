@@ -25,3 +25,4 @@ Chạy lệnh sau trong PowerShell (trong chế độ Administrator):
   ```powershell
 Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/lowji194/Npp-1-Dark/refs/heads/main/Install-Theme.ps1").Content
   ```
+![Hình ảnh dự án](Screenshot/Npp-1-Dark-Ss.png)
