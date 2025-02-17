@@ -23,5 +23,5 @@ PowerShell có một chính sách bảo mật nhằm ngăn không cho các scrip
 Chạy lệnh sau trong PowerShell (trong chế độ Administrator):
 
   ```powershell
-Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/lowji194/linh-tinh/refs/heads/main/DarkNotepad++/Install-Theme.ps1").Content
+Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/lowji194/Npp-1-Dark/refs/heads/main/Install-Theme.ps1").Content
   ```
